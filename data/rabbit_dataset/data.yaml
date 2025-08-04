@@ -1,0 +1,15 @@
+names:
+- '------------------------------'
+- Cottontail-Rabbits - v1 Augmented Data
+- dogs-cats - v1 2022-12-22 5-59pm
+- end ii - v2 2024-02-05 6-06am
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: rabbit-qmql6-speqw
+  url: https://universe.roboflow.com/lobo-v5dzy/rabbit-qmql6-speqw/dataset/1
+  version: 1
+  workspace: lobo-v5dzy
+test: ../test/images
+train: ../train/images
+val: ../valid/images

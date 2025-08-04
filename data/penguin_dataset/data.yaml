@@ -1,0 +1,14 @@
+names:
+- chinstrap
+- emporer
+- king
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: penguindataset-4dujc-quofz
+  url: https://universe.roboflow.com/lobo-v5dzy/penguindataset-4dujc-quofz/dataset/2
+  version: 2
+  workspace: lobo-v5dzy
+test: ../test/images
+train: ../train/images
+val: ../valid/images
