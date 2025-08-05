@@ -1,4 +1,4 @@
-# Real-Time Object Detection with YOLOv8 – Rabbit & Penguin Tracker
+# YOLOv8 기반 실시간 객체 탐지 – 토끼 & 펭귄 객체 탐지
 
 이 프로젝트는 최신 객체 탐지 모델인 **YOLOv8**을 사용하여 토끼와 펭귄을 탐지하는 객체 탐지 모델을 구현한 것입니다. Roboflow를 활용해 데이터셋을 준비하고, 로컬 및 API 방식으로 추론을 수행합니다.
 
