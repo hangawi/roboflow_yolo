@@ -106,4 +106,9 @@ python scripts/penguin/run_api_inference.py
 
 프로젝트의 객체 탐지 실행 결과 예시입니다.
 
-![Rabbit Local Detection Example](results/rabbit_local_detected.png)
+![Rabbit Local Detection Example](image/rabbit_local.png)
+
+## 상세 문서 (PDF)
+
+이 프로젝트에 대한 더 자세한 내용은 다음 PDF 문서를 참조해 주세요:
+[전체 포트폴리오 보기](상세문서.pdf)
