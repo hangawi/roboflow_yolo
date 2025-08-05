@@ -5,9 +5,9 @@ import time
 
 # --- 1. 설정 ---
 ROBOFLOW_API_KEY = "UgF3Ulak7a0s9TsaO1jE" # 여기에 Roboflow API 키를 입력하세요.
-INPUT_VIDEO_PATH = "../../raw_videos/rabbit_original.mp4"
+INPUT_VIDEO_PATH = "../../raw_videos/토끼 원본.mp4"
 # 결과 파일 이름을 "1_api_detected.mp4"로 변경하여 이전 결과와 겹치지 않게 합니다.
-OUTPUT_VIDEO_PATH = "../../results/rabbit_api_detected.mp4"
+OUTPUT_VIDEO_PATH = "../../results/토끼_api_detected.mp4"
 TEMP_FRAME_PATH = "temp_frame.jpg" # API에 보낼 임시 이미지 파일
 
 # --- 2. Roboflow 모델 초기화 ---

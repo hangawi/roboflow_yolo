@@ -8,10 +8,10 @@ import os
 MODEL_WEIGHTS_PATH = "../../trained_models/rabbit_trained_model.pt"
 
 # 처리할 동영상 파일의 전체 경로
-INPUT_VIDEO_PATH = "../../raw_videos/rabbit_original.mp4"
+INPUT_VIDEO_PATH = "../../raw_videos/토끼 원본.mp4"
 
 # 결과 동영상을 저장할 전체 경로
-OUTPUT_VIDEO_PATH = "../../results/rabbit_local_detected.mp4"
+OUTPUT_VIDEO_PATH = "../../results/토끼_local_detected.mp4"
 
 # --- 설정 끝 ---
 

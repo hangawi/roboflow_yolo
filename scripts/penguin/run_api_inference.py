@@ -5,8 +5,8 @@ import time
 
 # --- 1. 설정 ---
 ROBOFLOW_API_KEY = "UgF3Ulak7a0s9TsaO1jE"
-INPUT_VIDEO_PATH = "../../raw_videos/penguin_original.mp4"
-OUTPUT_VIDEO_PATH = "../../results/penguin_api_detected.mp4"
+INPUT_VIDEO_PATH = "../../raw_videos/펭귄 원본.mp4"
+OUTPUT_VIDEO_PATH = "../../results/펭귄_api_detected.mp4"
 TEMP_FRAME_PATH = "temp_frame.jpg" # API에 보낼 임시 이미지 파일
 
 # --- 2. Roboflow 모델 초기화 ---
