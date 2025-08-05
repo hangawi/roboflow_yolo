@@ -4,11 +4,13 @@
 
 ## 기술 스택
 
-- **언어:** Python
-- **딥러닝 프레임워크:** PyTorch
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-4299E1?style=for-the-badge&logo=roboflow&logoColor=white)
+
 - **객체 탐지 모델:** YOLOv8
-- **핵심 라이브러리:** Ultralytics, OpenCV, Roboflow
-- **데이터셋 관리:** Roboflow
+- **핵심 라이브러리:** Ultralytics
 
 ## 왜 YOLOv8을 사용하는가?
 
