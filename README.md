@@ -110,5 +110,4 @@ python scripts/penguin/run_api_inference.py
 
 ## 상세 문서 (PDF)
 
-이 프로젝트에 대한 더 자세한 내용은 다음 PDF 문서를 참조해 주세요:
-[전체 포트폴리오 보기](상세문서.pdf)
+<object data="https://github.com/hangawi/roboflow_yolo/raw/master/image/%EC%83%81%EC%84%B8%20%EB%AC%B8%EC%84%9C.pdf" width="100%" height="800px" type='application/pdf'></object>
